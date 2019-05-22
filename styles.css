@@ -1,0 +1,304 @@
+nav {
+        background-color: #C12127;
+        color: rgba(255,255,255,0.8);
+        padding-top: 15px;
+        height: 60px;
+        font-family: helvetica;
+      }
+      nav a {
+        color: rgba(255,255,255,0.8);
+        text-decoration: none;
+        font-size: 30px;
+      }
+      .top-links {
+        display: inline-block;
+        float: right;
+        padding: 0;
+        margin: 0 40px 0 0;
+        position: relative;
+        bottom: 35px;
+      }
+      .top-links li {
+        display: inline-block;
+        margin: 0 10px;
+      }
+      .heart {
+              position: relative;
+              left: 20px;
+              top: 5px;
+      }
+      .acronym {
+              position: relative;
+              left: 60px;
+              font-size: 30px;
+              top: 5px;
+      }
+      header {
+              height: 900px;
+              background: url("images/city-scape.svg");
+              background-size: cover;
+              }
+.header-top {
+        height: 70px;
+}
+#logo {
+        position: relative;
+        top: 15px;
+        left: 30px;
+}
+.header-top form {
+        float: right;
+        position: relative;
+        left: 520px;
+        }
+.header-top input {
+        width: 1800px;
+        position: relative;
+        right: 910px;
+        bottom: 60px;
+        height: 55px;
+        font-family: helvetia;
+        color: grey;
+        font-size: 30px;
+        background-color: rgb(31, 82, 111);
+        border-style: solid;
+        border-color:grey;
+}
+.header-top button {
+        float: right;
+        position: relative;
+        right: 910px;
+        bottom: 60px;
+        background-color: rgb(31, 82, 111);
+        border-style: solid;
+        border-color:grey;
+}
+.sign-up li {
+        display: inline-block;
+        position: relative;
+        left: 2160px;
+        bottom: 70px;
+        color: white;
+        font-family: helvetica;
+        font-size: 30px;
+}
+#bear {
+        position: relative;
+        left: 2420px;
+        top: -135px;
+
+}
+.header-top a {
+        text-decoration: none;
+        color: white;
+}
+    .header-mid h1 {
+              font-family: helvetica;
+              font-weight: lighter;
+              font-size: 80px;
+              color: white;
+      }
+      .header-mid p {
+              font-family: helvetica;
+              color: white;
+              font-size: 30px;
+              width: 900px;
+      }
+      .header-mid button {
+              background-color: rgb(240, 146, 51);
+              font-family: helvetica;
+              color: white;
+              font-size: 30px;
+              position: relative;
+              top: 50px;
+              padding: 10px 20px;
+              border-radius: 40px;
+              border-style: none;
+      }
+
+     .header-mid {
+             width: 1000px;
+             margin: 50px 600px 400px 300px;
+     }
+     #section-1 {
+         height: 920px;
+         background-color: rgb(39, 53, 71);
+     }
+     #section-1 img {
+             position: relative;
+             top: 250px;
+             left: 390px;
+     }
+     #section-1 h1 {
+             position: relative;
+             bottom: 250px;
+             left: 1350px;
+     }
+     #section-1 ul {
+        position: relative;
+        bottom: 250px;
+        left: 1350px;
+}
+#section-1 button {
+              position: relative;
+              bottom: 250px;
+              left: 1380px;
+              font-family: helvetica;
+              color: white;
+              font-size: 30px;
+              background-color: rgb(203, 56, 55);
+              padding: 10px 20px;
+              border-radius: 40px;
+              border-style: none;
+}
+#section-1 p {
+             position: relative;
+             bottom: 250px;
+             left: 1350px;
+             font-family: helvetica;
+             color: white;
+             font-size: 30px;
+}
+#section-1 a {
+              font-family: helvetica;
+              color: white;
+              font-size: 30px;
+              text-decoration: none;
+}
+#section-2 {
+        height: 940px;
+        background: url("images/forklift.svg");
+        background-size: cover;
+        position: relative;
+        bottom: 50px;
+}
+#section-2 h1 {
+        position: absolute;
+        top: 250px;
+        left: 200px;
+}
+#section-2 p {
+        position: absolute;
+        top: 320px;
+        left: 200px;
+}
+#section-2 button {
+        position: absolute;
+        top: 380px;
+        left:200px;
+        padding: 10px 20px;
+        border-radius: 40px;
+        border-style: none;
+}
+.section3-top {
+        height: 200px;
+        position: relative;
+        background-color: white;
+        bottom: 85px;
+}
+.section3-bottom {
+        height: 500px;
+        position: relative;
+        background-color: white;
+        bottom: 85px;
+}
+.section3-top h1 {
+        color: rgb(83, 88, 98);
+        position: relative;
+        top: 70px;
+        left: 790px;
+        font-family: helvetica;
+        font-size: 40px;
+        font-weight: lighter;
+}
+.section3-top p {
+        color:  rgb(135, 145, 156);
+        font-family: helvetica;
+        font-size: 20px;
+        position: relative;
+        top: 70px;
+        left: 720px;
+}
+.section3-bottom h2 {
+        color: rgb(83, 88, 98);
+        font-family: helvetica;
+        font-size: 20px;
+        text-align: center;
+}
+.section3-bottom p {
+        color: rgb(135, 145, 156);
+        font-family: helvetica;
+        font-size: 20px;
+        width: 300px;
+        text-align: center;
+}
+.section3-bottom a {
+        color: rgb(208, 74, 73);
+        text-decoration: none;
+}
+.Build {
+        float: right;
+        margin-right: -1000px;
+        position: relative;
+        top: 50px;
+}
+.Discover {
+        float: right;
+        margin-right: 1150px;
+        position: relative;
+        top: 50px;
+}
+.Find {
+        float: left;
+        margin-left: 370px;
+        position: relative;
+        top: 50px;
+}
+.Find img {
+      padding-left: 35px;
+}
+.Discover img {
+        padding-left: 35px;
+}
+.Build img {
+        padding-left: 35px;
+}
+#section-2 h1 {
+        font-family: helvetica;
+        font-size: 60px;
+        font-weight: lighter;
+        color: white;
+        position: relative;
+        top: 220px;
+}
+#section-2 p {
+        font-family: helvetica;
+        font-size: 30px;
+        font-weight: lighter;
+        color: white;
+        position: relative;
+        top: 220px;
+        width: 650px;
+       }
+#section-2 button {
+        position: relative;
+        top: 250px;
+        color: white;
+        font-family: helvetica;
+        font-size: 30px;
+        font-weight: lighter;
+        background-color: rgb(49, 68, 88); 
+}
+#section-1 h1 {
+        font-family: helvetica;
+        font-size: 60px;
+        font-weight: lighter;
+        color: white;
+        width: 600px;
+       }
+#section-1 ul {
+        font-family: helvetica;
+        font-size: 30px;
+        font-weight: lighter;
+        color: white;
+}
