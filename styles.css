@@ -241,7 +241,7 @@ h2 {
         color: rgb(83, 88, 98);
         position: relative;
         top: 70px;
-        left: 790px;
+        margin: 0 auto;
         font-family: helvetica;
         font-size: 40px;
         font-weight: lighter;
@@ -253,7 +253,7 @@ h2 {
         font-size: 20px;
         position: relative;
         top: 70px;
-        left: 720px;
+        margin: 0 auto;
 }
 
 .section3-bottom h3 {
